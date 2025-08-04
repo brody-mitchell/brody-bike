@@ -121,7 +121,7 @@ export default function Home() {
             <p className={`text-xl md:text-2xl mb-8 max-w-3xl mx-auto transition-colors duration-300 ${
               isDarkMode ? 'text-gray-300' : 'text-gray-600'
             }`}>
-              Age is just a number. At 13, I'm already conquering trails that challenge riders twice my age. 
+              Age is just a number. At 13, I&apos;m already conquering trails that challenge riders twice my age. 
               This is my journey through the world of mountain biking.
             </p>
             
@@ -173,18 +173,18 @@ export default function Home() {
               isDarkMode ? 'text-gray-300' : 'text-gray-600'
             }`}>
               <p>
-                Just because I'm 13 doesn't mean I can't shred like the pros. I've been riding since I was 8, 
+                Just because I&apos;m 13 doesn&apos;t mean I can&apos;t shred like the pros. I&apos;ve been riding since I was 8, 
                 and my passion for mountain biking has only grown stronger with every trail I conquer.
               </p>
               
               <p>
-                My bike isn't just a bike – it's my partner in adventure. Together, we've tackled everything 
+                My bike isn&apos;t just a bike – it&apos;s my partner in adventure. Together, we&apos;ve tackled everything 
                 from smooth flow trails to technical rock gardens that would make even experienced riders think twice.
               </p>
               
               <p>
                 Age is just a number. What matters is skill, determination, and the love for the sport. 
-                I'm here to prove that young riders can be just as skilled, if not more, than their older counterparts.
+                I&apos;m here to prove that young riders can be just as skilled, if not more, than their older counterparts.
               </p>
             </div>
           </div>
@@ -314,8 +314,8 @@ export default function Home() {
           <p className={`text-xl mb-8 max-w-2xl mx-auto transition-colors duration-300 ${
             isDarkMode ? 'text-gray-300' : 'text-gray-600'
           }`}>
-            Whether you're 13 or 30, age doesn't define your potential. 
-            Get out there, push your limits, and discover what you're truly capable of.
+            Whether you&apos;re 13 or 30, age doesn&apos;t define your potential. 
+            Get out there, push your limits, and discover what you&apos;re truly capable of.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
